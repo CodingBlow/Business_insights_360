@@ -9,8 +9,6 @@ This project is inspired by the Codebasics PowerBI Course, accessible [here](htt
 [Live Report Link](https://www.novypro.comliq-hardware-business-insights-360)
 
 ## Tech Stacks
-
-- SQL
 - PowerBI Desktop
 - Excel
 - DAX language
